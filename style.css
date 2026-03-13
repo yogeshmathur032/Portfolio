@@ -204,7 +204,8 @@ span{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 4rem;
+    
     
 }
 .services-container .services-box{
@@ -220,6 +221,7 @@ span{
     border-color:var(--main-color);
     transform: scale(1.02);
 }
+
 
 .services-box i {
     font-size: 7rem;
